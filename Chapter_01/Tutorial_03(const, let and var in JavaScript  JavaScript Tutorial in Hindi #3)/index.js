@@ -35,7 +35,7 @@ console.log("JavaScript tutorial 3: var, let and const");
 
 //---------------const can neither be updated nor be redeclared-------------
 
-const author = "sihab";
+// const author = "sihab";
 // const author = 3.14; // const can not be redeclared
 // author = "harry";// const can not be updated
-console.log(author);
+// console.log(author);
